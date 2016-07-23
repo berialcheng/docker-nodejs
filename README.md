@@ -1,4 +1,6 @@
 # docker-nodejs
-Docker image for nodejs
+Docker Image for Nodejs
+---
 
-Node v0.12.7
+References:
+1. nvm(Node Version Manager) https://github.com/creationix/nvm
